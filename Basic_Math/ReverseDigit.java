@@ -4,7 +4,7 @@ package Basic_Math;
 public class ReverseDigit {
   public static void main(String[] args) {
     int number = 56325;
-    int originalNumber = number;
+   // int originalNumber = number;
     int reverseDigit = 0;
 
     while(number > 0){
